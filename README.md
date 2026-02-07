@@ -33,11 +33,11 @@ A romantic and interactive proposal website designed to create unforgettable mom
 
 ### Live Demo
 Experience the live version here:  
-👉 [https://botfather.cloud/Tools/Propose/](https://botfather.cloud/Tools/Propose/)
+👉 [https://bots.lt/Tools/Propose/](https://bots.lt/Tools/Propose/)
 
 ### Personalized Link
 Add your special someone's name to the URL:  
-`https://botfather.cloud/Tools/Propose/?name=YourName`
+`https://bots.lt/Tools/Propose/?name=YourName`
 
 ---
 
